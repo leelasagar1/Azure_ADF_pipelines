@@ -1,0 +1,9 @@
+{
+	"name": "DataFactoryDEGDS",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "78b718ca-5ff7-47cd-99ff-1c07dfb269a9",
+		"tenantId": "f1efb30d-60be-4ef6-b02e-73eaba1a7436"
+	}
+}
